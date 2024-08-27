@@ -1,0 +1,118 @@
+body{
+    background-color: #E9ECF8;
+    width: 335.98px;
+    height: 304.03px;
+}
+
+.logo {
+    text-align: left;
+    width: 120px;
+    height: 48px;
+    top: 40px;
+    left: 40px;
+    gap: 40px;
+    opacity: 0px;
+}
+
+.alerta{
+    display: flex;
+    align-items: center;
+    width: 252ppx;
+    height:18px;
+    top: 851px;
+    left: 240px;
+    gap: 8px;
+    opacity: 0px;
+
+}
+
+.alerta img{
+    width: 16px;
+    height: 16px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.button1{
+    background-color:#0A3871;
+    color: white;
+    width: 328px;
+    height: 67px;
+    padding: 24px;
+    gap: 8px;
+    border-radius: 24px ;
+    border: 1px;
+    cursor: pointer;
+    opacity: 0px;
+    }
+.button2{
+    background-color: #D8DFE8;
+    color: #0A3871;
+    width: 328px;
+    height: 67px;
+    padding: 24px;
+    cursor: pointer;
+    border-radius: 24px ;
+    border: 1px;
+    opacity: 0px;
+    gap: 8px;
+
+    
+}
+.buttons{  
+    width:680px;
+    height: 67px;
+    top: 885px;
+    left: 240px;
+    gap: 24px;
+    opacity: 0px;
+
+
+}
+
+.caixa{
+    width: 680px;
+    height: 580px;
+    top: 168px;
+    left: 240px;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: left;
+    padding: 10px;
+    font-size: 1.5em;
+    color: #0A3871;
+    outline: none; 
+    background-color: #E9ECF8; 
+    border: 1px;   
+}
+
+.imagem2{
+    text-align: end;
+
+}
+
+.imagem2 img{
+    width: 336px;
+    height: 304px;
+    top: 283px;
+    left: 1032px;
+    position: absolute;
+    z-index: 2;
+
+}
+.rectangle{
+    background-color: white;
+    text-align: end;
+    width: 400px;
+    height: 944px;
+    top: 40px;
+    left: 1000px;
+    gap: 0px;
+    border-radius: 32px ;
+    position: absolute;
+    z-index: 1;
+}
+
